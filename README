@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4807
+
+Tool to view the changes between your version and backed version or basis version.
+There are four commands.
+Ad      - View the difference between modified file and last kept file
+Adbs  - View the difference between modified file and last updated version
+Adbk  - View the difference between modified file and backed file in backed stream
+Adc    - Exit the diff view
